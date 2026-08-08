@@ -16,7 +16,6 @@ www.visa.co.jp
 www.visakorea.com
 time.is
 www.glassdoor.com
-www.csgo.com
 www.okcupid.com
 japan.com
 malaysia.com
@@ -36,11 +35,8 @@ www.baipiao.eu.org
 xn--b6gac.eu.org
 log.bpminecraft.com
 www.zsu.gov.ua
-www.iakeys.com
 cf.090227.xyz#三网自适应分流官方优选
 ct.090227.xyz#电信官方优选
 cmcc.090227.xyz#移动官方优选
 cfip.xxxxxxxx.tk#OTC提供维护官方优选
-bestcf.onecf.eu.org#Mingyu提供维护官方优选
-cf.zhetengsha.eu.org#小一提供维护官方优选
 cf.0sm.com
